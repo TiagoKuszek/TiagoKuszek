@@ -6,9 +6,13 @@ I have knowledge of Html, Css, Sass, Scss, Bootstrap, JavaScript.
 
 You can contact me below!
 https://www.linkedin.com/in/tiago-kuszek-59623b186/
+
 https://www.facebook.com/joaquin.kuszek/
+
 https://www.instagram.com/tiagoo.k/
+
 https://twitter.com/tiago_kuszek
+
 joaquinkuszek@gmail.com
 
 Hola! 👋
@@ -19,8 +23,12 @@ Poseo conocimientos de Html,Css, Sass, Scss, Bootstrap, JavaScript.
 
 Me podes contactar abajo!
 https://www.linkedin.com/in/tiago-kuszek-59623b186/
+
 https://www.facebook.com/joaquin.kuszek/
+
 https://www.instagram.com/tiagoo.k/
+
 https://twitter.com/tiago_kuszek
+
 joaquinkuszek@gmail.com
 
