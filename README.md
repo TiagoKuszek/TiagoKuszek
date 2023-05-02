@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋
+My name is Tiago and I am a freelance web developer.
+Looking for a trainee/junior job opportunity to continue learning and strengthening my knowledge.
+I am currently doing a Javascript course to continue advancing with my studies as a web developer and soon I will be doing a React course,
+I have knowledge of Html, Css, Sass, Scss, Bootstrap, JavaScript.
 
-<!--
-**TiagoKuszek/TiagoKuszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola! 👋
+Mi nombre es Tiago y soy un desarrollador web freelance.
+En busqueda de una oportunidad laboral trainee/junior para poder seguir aprendiendo y fortaleciendo mis conocimientos.
+Actualmente me encuentro haciendo un curso de Javascript para seguir avanzando con mis estudios de desarrollador web y proximamente estare realizando un curso de React,
+Poseo conocimientos de Html,Css, Sass, Scss, Bootstrap, JavaScript.
