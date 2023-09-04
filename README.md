@@ -3,6 +3,7 @@ My name is Tiago and I am a freelance web developer.
 Looking for a trainee/junior job opportunity to continue learning and strengthening my knowledge.
 I am currently doing a Javascript course to continue advancing with my studies as a web developer and soon I will be doing a React course,
 I have knowledge of Html, Css, Sass, Scss, Bootstrap, JavaScript.
+https://tiagokuszek.github.io/Portfolio/
 
 You can contact me below!
 https://www.linkedin.com/in/tiago-kuszek-59623b186/
